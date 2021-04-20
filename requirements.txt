@@ -1,0 +1,7 @@
+numpy
+flask
+pandas
+scikit-learn
+statsmodels
+matplotlib
+unittest
