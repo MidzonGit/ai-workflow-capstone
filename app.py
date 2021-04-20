@@ -5,17 +5,14 @@ Created on Sat Apr 17 11:14:04 2021
 @author: MithunMohan
 """
 
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, Response
 from flask import render_template, send_from_directory
 import os
 import re
 import numpy as np
 import pandas as pd
 
-
-## import model specific functions and variables
-from model.model import model_train, model_load, model_predict
-from model.model import MODEL_VERSION, MODEL_VERSION_NOTE
+from utils.model import model_train, model_predict
 
 app = Flask(__name__)
 
@@ -25,7 +22,7 @@ def home():
     return '''Welcome to the AI workflow Capstone server. 
               Use /predict endpoint and pass Country, Date information to receive predictions 
               Use /train endpoint and pass Environment value to kickstart model training 
-              Use /logs endpoint alongwith url param for logfile to retrieve log files (text format)'''
+              Use /logs endpoint alongwith url param type = train or predict for logfile to retrieve log files'''
 
 
 @app.route('/train', methods=['GET'])
@@ -85,8 +82,6 @@ def predict_post():
         msg="Valid date not entered. Day value invalid"
         return jsonify(msg)
     #set test flag
-
-    
     year = date.split('-')[0]
     month = date.split('-')[1]
     day = date.split('-')[2]
@@ -102,27 +97,25 @@ def predict_post():
     return jsonify(output_text)
 
         
-@app.route('/logs/<filename>',methods=['GET'])
-def logs(filename):
-    """
-    API endpoint to get logs
-    """
-
-    if not re.search(".log",filename):
-        print("ERROR: API (log): file requested was not a log file: {}".format(filename))
+@app.route("/logs/<type>")
+def retrieveLogs(typ):
+    if typ not in ['train','predict']:
+        return jsonify('Wrong parameter. Values need to be either train or predict')
+    path = r'logs/{}.log'.format(typ)
+    if not os.path.isfile(path):
+        print("ERROR: API (log): cannot find log file")
+        return jsonify('Log file does not exist')
+    filename='{}.log'.format(typ)
+    try:
+        file = open(path,'r')
+        returnfile = file.read().encode('latin-1')
+        file.close()
+        return Response(returnfile,mimetype="text/plain",headers={"Content-disposition":"attachment; filename=model.log"})
+    except Exception as e:
+        print(str(e))
         return jsonify([])
 
-    log_dir = os.path.join(".","logs")
-    if not os.path.isdir(log_dir):
-        print("ERROR: API (log): cannot find log dir")
-        return jsonify([])
 
-    file_path = os.path.join(log_dir,filename)
-    if not os.path.exists(file_path):
-        print("ERROR: API (log): file requested could not be found: {}".format(filename))
-        return jsonify([])
-    
-    return send_from_directory(log_dir, filename, as_attachment=True)
 
 if __name__ == '__main__':
     debug=True
