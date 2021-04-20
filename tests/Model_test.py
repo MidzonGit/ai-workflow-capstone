@@ -6,7 +6,7 @@ Created on Sat Apr 17 11:09:09 2021
 """
 import os
 import unittest
-from utils.model import *
+from utils.model import model_train,model_load,model_predict
 
 class ModelTest(unittest.TestCase):
     """
@@ -25,7 +25,7 @@ class ModelTest(unittest.TestCase):
         self.assertTrue('fit' in dir(model))
 
     def model_predict_test(self):
-        result = model_predict('all','2018','08','09',test=True) #change data
+        result = model_predict('all','2018','09','04',test=True) #change data
         y_pred = result['y_pred']
         self.assertTrue(y_pred >= 0.0)
 

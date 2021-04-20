@@ -19,93 +19,44 @@ class LoggerTest(unittest.TestCase):
     test the essential functionality
     """
         
-    def test_01_train(self):
+    def test_train(self):
         """
-        ensure log file is created
+        train log testing
         """
 
-        log_file = os.path.join("logs","train-test.log")
+        log_file = os.path.join("logs","train.log")
         if os.path.exists(log_file):
             os.remove(log_file)
-        
         ## update the log
-        tag = 'netherlands'
-        period = ('2017-12-01', '2019-05-31')
-        rmse = {'rmse':0.5}
-        runtime = "00:00:01"
+        tag = 'united_kingdom'
+        date = '2018-07-01'
+        rmse = 0.9
+        runtime = '00:05:26'
         model_version = 0.1
         model_version_note = "test model"
-        
-        update_train_log(tag,period,rmse,runtime,
-                         model_version, model_version_note,test=True)
-
+        msg = "{0} version {1} trained for {2} during {3} with accuracy {4}. Total runtime {5}".format(model_version_note,model_version,tag,date,rmse,runtime)
+        update_train_log(msg)
         self.assertTrue(os.path.exists(log_file))
-        
-    def test_02_train(self):
-        """
-        ensure that content can be retrieved from log file
-        """
-
-        log_file = os.path.join("logs","train-test.log")
-        
-        ## update the log
-        tag = 'netherlands'
-        period = ('2017-12-01', '2019-05-31')
-        rmse = {'rmse':0.5}
-        runtime = "00:00:01"
-        model_version = 0.1
-        model_version_note = "test model"
-        
-        update_train_log(tag,period,rmse,runtime,
-                         model_version, model_version_note,test=True)
-
-        df = pd.read_csv(log_file)
-        logged_period = [literal_eval(i) for i in df['period'].copy()][-1]
-        self.assertEqual(period,logged_period)
                 
 
-    def test_03_predict(self):
+    def test_predict(self):
         """
         ensure log file is created
         """
 
-        log_file = os.path.join("logs","predict-test.log")
+        log_file = os.path.join("logs","predict.log")
         if os.path.exists(log_file):
             os.remove(log_file)
         
         ## update the log
-        country = 'netherlands'
-        y_pred = [0]
-        y_proba = [0.6,0.4]
-        target_date = '2019-01-05'
-        runtime = "00:00:02"
-        model_version = 0.1
-
-        update_predict_log(country,y_pred,y_proba,target_date,runtime,model_version,test=True)
-        
+        tag = 'eire'
+        y_pred = [4]
+        y_proba = [0.25,0.75]
+        target_date = '2018-07-01'
+        runtime = "00:00:01"
+        msg = "Prediction generated for {0} with value {1}, probability {2} for {3}. Total runtime was {4}".format(tag,y_pred,y_proba,target_date,runtime)
+        update_predict_log(msg)
         self.assertTrue(os.path.exists(log_file))
-
-    
-    def test_04_predict(self):
-        """
-        ensure that content can be retrieved from log file
-        """
-
-        log_file = os.path.join("logs","predict-test.log")
-
-        ## update the log
-        country = 'netherlands'
-        y_pred = [0]
-        y_proba = [0.6,0.4]
-        target_date = '2019-01-05'
-        runtime = "00:00:02"
-        model_version = 0.1
-
-        update_predict_log(country,y_pred,y_proba,target_date,runtime,model_version,test=False)
-
-        df = pd.read_csv(log_file)
-        logged_y_pred = [literal_eval(i) for i in df['y_pred'].copy()][-1]
-        self.assertEqual(y_pred,logged_y_pred)
 
 
 ### Run the tests
