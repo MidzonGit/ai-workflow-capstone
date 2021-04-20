@@ -1,0 +1,253 @@
+2021-04-20 23:06:01,104 : logger.py : INFO : Model training - mlp model saved for country all after achieving accuracy 24927.282, versioned 0.1. Training completed in 000:01:32
+2021-04-20 23:06:05,382 : logger.py : INFO : Baseline model trained for country all and saved to models/baseline\b-sl-all-0_1.joblib
+2021-04-20 23:06:05,382 : logger.py : INFO : Baseline model trained for country all and saved to models/baseline\b-sl-all-0_1.joblib
+2021-04-20 23:08:22,205 : logger.py : INFO : Model training - rf model saved for country eire after achieving accuracy 1569.812, versioned 0.1. Training completed in 000:02:16
+2021-04-20 23:08:22,205 : logger.py : INFO : Model training - rf model saved for country eire after achieving accuracy 1569.812, versioned 0.1. Training completed in 000:02:16
+2021-04-20 23:08:22,205 : logger.py : INFO : Model training - rf model saved for country eire after achieving accuracy 1569.812, versioned 0.1. Training completed in 000:02:16
+2021-04-20 23:08:27,014 : logger.py : INFO : Baseline model trained for country eire and saved to models/baseline\b-sl-eire-0_1.joblib
+2021-04-20 23:08:27,014 : logger.py : INFO : Baseline model trained for country eire and saved to models/baseline\b-sl-eire-0_1.joblib
+2021-04-20 23:08:27,014 : logger.py : INFO : Baseline model trained for country eire and saved to models/baseline\b-sl-eire-0_1.joblib
+2021-04-20 23:08:27,014 : logger.py : INFO : Baseline model trained for country eire and saved to models/baseline\b-sl-eire-0_1.joblib
+2021-04-20 23:09:54,187 : logger.py : INFO : Model training - mlp model saved for country france after achieving accuracy 1000.287, versioned 0.1. Training completed in 000:01:27
+2021-04-20 23:09:54,187 : logger.py : INFO : Model training - mlp model saved for country france after achieving accuracy 1000.287, versioned 0.1. Training completed in 000:01:27
+2021-04-20 23:09:54,187 : logger.py : INFO : Model training - mlp model saved for country france after achieving accuracy 1000.287, versioned 0.1. Training completed in 000:01:27
+2021-04-20 23:09:54,187 : logger.py : INFO : Model training - mlp model saved for country france after achieving accuracy 1000.287, versioned 0.1. Training completed in 000:01:27
+2021-04-20 23:09:54,187 : logger.py : INFO : Model training - mlp model saved for country france after achieving accuracy 1000.287, versioned 0.1. Training completed in 000:01:27
+2021-04-20 23:09:59,354 : logger.py : INFO : Baseline model trained for country france and saved to models/baseline\b-sl-france-0_1.joblib
+2021-04-20 23:09:59,354 : logger.py : INFO : Baseline model trained for country france and saved to models/baseline\b-sl-france-0_1.joblib
+2021-04-20 23:09:59,354 : logger.py : INFO : Baseline model trained for country france and saved to models/baseline\b-sl-france-0_1.joblib
+2021-04-20 23:09:59,354 : logger.py : INFO : Baseline model trained for country france and saved to models/baseline\b-sl-france-0_1.joblib
+2021-04-20 23:09:59,354 : logger.py : INFO : Baseline model trained for country france and saved to models/baseline\b-sl-france-0_1.joblib
+2021-04-20 23:09:59,354 : logger.py : INFO : Baseline model trained for country france and saved to models/baseline\b-sl-france-0_1.joblib
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:10:55,564 : logger.py : INFO : Model training - mlp model saved for country germany after achieving accuracy 705.616, versioned 0.1. Training completed in 000:00:56
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:00,077 : logger.py : INFO : Baseline model trained for country germany and saved to models/baseline\b-sl-germany-0_1.joblib
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:27,434 : logger.py : INFO : Model training - mlp model saved for country hong_kong after achieving accuracy 1077.567, versioned 0.1. Training completed in 000:00:27
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:11:30,758 : logger.py : INFO : Baseline model trained for country hong_kong and saved to models/baseline\b-sl-hong_kong-0_1.joblib
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:42,452 : logger.py : INFO : Model training - mlp model saved for country netherlands after achieving accuracy 237.016, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:12:47,162 : logger.py : INFO : Baseline model trained for country netherlands and saved to models/baseline\b-sl-netherlands-0_1.joblib
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:11,305 : logger.py : INFO : Model training - mlp model saved for country norway after achieving accuracy 198.893, versioned 0.1. Training completed in 000:00:24
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:13:16,206 : logger.py : INFO : Baseline model trained for country norway and saved to models/baseline\b-sl-norway-0_1.joblib
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:17,947 : logger.py : INFO : Model training - mlp model saved for country portugal after achieving accuracy 1057.679, versioned 0.1. Training completed in 000:01:01
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:22,560 : logger.py : INFO : Baseline model trained for country portugal and saved to models/baseline\b-sl-portugal-0_1.joblib
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:41,042 : logger.py : INFO : Model training - mlp model saved for country singapore after achieving accuracy 4064.065, versioned 0.1. Training completed in 000:00:18
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:14:44,366 : logger.py : INFO : Baseline model trained for country singapore and saved to models/baseline\b-sl-singapore-0_1.joblib
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:11,822 : logger.py : INFO : Model training - mlp model saved for country spain after achieving accuracy 216.494, versioned 0.1. Training completed in 000:02:27
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:17:16,852 : logger.py : INFO : Baseline model trained for country spain and saved to models/baseline\b-sl-spain-0_1.joblib
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:27,916 : logger.py : INFO : Model training - mlp model saved for country united_kingdom after achieving accuracy 26048.555, versioned 0.1. Training completed in 000:01:11
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
+2021-04-20 23:18:33,673 : logger.py : INFO : Baseline model trained for country united_kingdom and saved to models/baseline\b-sl-united_kingdom-0_1.joblib
