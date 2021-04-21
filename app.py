@@ -11,6 +11,7 @@ import os
 import re
 import numpy as np
 import pandas as pd
+import datetime
 
 from utils.model import model_train, model_predict
 
@@ -72,19 +73,20 @@ def predict_post():
         msg="No Date found in request"
         return jsonify(msg)
     date = request.form.get('date')
+    #Date in specific format
+    format = "%Y-%m-%d"
+    try:
+      datetime.datetime.strptime(date, format)
+      print("Correct date string format")
+    except ValueError:
+      return jsonify ("Please enter a valid date in format YYYY-MM-DD")
     if 'date' in request.json and int(date.split('-')[0]) not in [2018,2019]:
         msg="Valid date not entered. Choose an year between 2018 and 2019"
         return jsonify(msg)
-    if 'date' in request.json and 1<=int(date.split('-')[1])<=12:
-        msg="Valid date not entered. Month value invalid"
-        return jsonify(msg)
-    if 'date' in request.json and 1<=int(date.split('-')[2])<=31:
-        msg="Valid date not entered. Day value invalid"
-        return jsonify(msg)
     #set test flag
-    year = date.split('-')[0]
-    month = date.split('-')[1]
-    day = date.split('-')[2]
+    year = datetime.datetime.strptime(date, format).year
+    month = datetime.datetime.strptime(date, format).month
+    day = datetime.datetime.strptime(date, format).day
     country = request.form.get('country')
     prediction = model_predict(country, year, month, day, test=True)
     output = {}
